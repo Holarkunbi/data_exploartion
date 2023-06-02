@@ -17,6 +17,7 @@ Explore the dataset to identify differences between the customers of each produc
 You can also explore relationships between the different attributes of the customers. 
 You can approach it from any other line of questioning that you feel could be relevant for the business. 
 The idea is to get you comfortable working in Python.
+
 ``` mermaid
 graph TD
     A[Data Exploration Initiated]
